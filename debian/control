@@ -1,0 +1,14 @@
+Source: redmine-plugin-mylyncon
+Section: web
+Priority: extra
+Maintainer: Andreas Volk <git@andreasvolk.de>
+Build-Depends: cdbs, debhelper (>= 7.0.50~)
+Standards-Version: 3.8.4
+Homepage: http://sourceforge.net/projects/redmin-mylyncon/
+
+Package: redmine-plugin-mylyncon
+Architecture: any
+Depends: redmine (>= 1.0.0), ${misc:Depends}
+Description: Redmine mylyn connector plugin
+ An Eclipse Mylyn Repository plug-in for the Redmine bug tracking /
+ project management application.

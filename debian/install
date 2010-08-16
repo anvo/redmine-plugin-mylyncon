@@ -1,0 +1,8 @@
+*.rb usr/share/redmine/vendor/plugins/redmine_plugin_mylyncon
+app usr/share/redmine/vendor/plugins/redmine_plugin_mylyncon
+assets usr/share/redmine/vendor/plugins/redmine_plugin_mylyncon
+config usr/share/redmine/vendor/plugins/redmine_plugin_mylyncon
+db usr/share/redmine/vendor/plugins/redmine_plugin_mylyncon
+lang usr/share/redmine/vendor/plugins/redmine_plugin_mylyncon
+lib usr/share/redmine/vendor/plugins/redmine_plugin_mylyncon
+test usr/share/redmine/vendor/plugins/redmine_plugin_mylyncon

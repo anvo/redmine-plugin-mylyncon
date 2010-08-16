@@ -1,0 +1,26 @@
+This work was packaged for Debian by:
+
+    Andreas Volk <git@andreasvolk.de> on Mon, 16 Aug 2010 17:25:26 +0200
+
+It was downloaded from:
+
+    http://sourceforge.net/projects/redmin-mylyncon/
+
+Upstream Author(s):
+
+    Sven Krzyzak
+
+Copyright:
+
+    Copyright (C) 2008-2010 Sven Krzyzak
+
+License:
+
+    GNU General Public License (GPL)
+
+The Debian packaging is:
+
+    Copyright (C) 2010 Andreas Volk <git@andreasvolk.de>
+
+and is licensed under the GPL version 3,
+see "/usr/share/common-licenses/GPL-3".
