@@ -7,7 +7,7 @@ Standards-Version: 3.8.4
 Homepage: http://sourceforge.net/projects/redmin-mylyncon/
 
 Package: redmine-plugin-mylyncon
-Architecture: any
+Architecture: all
 Depends: redmine (>= 1.0.0), ${misc:Depends}
 Description: Redmine mylyn connector plugin
  An Eclipse Mylyn Repository plug-in for the Redmine bug tracking /

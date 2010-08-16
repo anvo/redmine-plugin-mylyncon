@@ -1,3 +1,10 @@
+redmine-plugin-mylyncon (2.6.4-2) unstable; urgency=low
+
+  * Add debian/watch file
+  * debian/control: Change Architecture to any
+
+ -- Andreas Volk <git@andreasvolk.de>  Mon, 16 Aug 2010 21:23:07 +0200
+
 redmine-plugin-mylyncon (2.6.4-1) unstable; urgency=low
 
   * Initial release
